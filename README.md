@@ -18,10 +18,10 @@ I'm a calm, focused learner building a strong foundation in **Oracle SQL**, **ER
 
 ## 📂 Projects
 
-### 🔹 [Mini ERP Database System](https://github.com/Baskar-Ventures/mini-erp-db)
+### 🔹 [Mini ERP Database System](https://github.com/Baskar-Ventures/mini-erp-sql)
 A simple SQL project simulating an inventory and customer database. It includes table creation, data manipulation, and query optimization.
 
-### 🔹 [Pocket Drone using LoRa](https://github.com/Baskar-Ventures/lora-drone)
+### 🔹 [FinalYearProject(Pending...)](https://github.com/Baskar-Ventures/lora-drone)
 An IoT-based long-range drone built for extended battery life and communication — includes LoRa modules and embedded design (under development).
 
 ---
