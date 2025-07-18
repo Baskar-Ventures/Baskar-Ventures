@@ -18,7 +18,7 @@ I'm a calm, focused learner building a strong foundation in **Oracle SQL**, **ER
 
 ## 📂 Projects
 
-### 🔹 [Mini ERP Database System](https://github.com/Baskar-Ventures/mini-erp-sql)
+### 🔹 [Mini ERP Database System](https://github.com/Baskar-Ventures/mini_erp_sql)
 A simple SQL project simulating an inventory and customer database. It includes table creation, data manipulation, and query optimization.
 
 ### 🔹 [FinalYearProject(Pending...)](https://github.com/Baskar-Ventures/lora-drone)
